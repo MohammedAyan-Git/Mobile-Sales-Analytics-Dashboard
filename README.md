@@ -151,7 +151,7 @@ Potential enhancements for future versions include:
 
 ## Dashboard Preview
 
-![](https://github.com/MohammedAyan-Git/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
+![](https://github.com/MohammedAyan-Git/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile%20Sales%20Analytics%20Dashboard.png)
 
 ---
 
