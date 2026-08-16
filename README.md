@@ -32,7 +32,7 @@ Data includes mobile phone sales transactions across major Indian cities, captur
 
 ---
 
-## ✨ Features / Highlights
+## Features
 
 ### • Business Problem
 
@@ -125,10 +125,7 @@ To deliver an interactive visual tool that:
 
 ---
 
-## 👤 Dashboard Designer
-
-**Designed by [Mohammed Ayan](https://github.com/yourusername)**
+**Dashboard Designed by [Mohammed Ayan](https://github.com/MohammedAyan-Git)**
 
 ---
 
-## 📂 Repository Structure
