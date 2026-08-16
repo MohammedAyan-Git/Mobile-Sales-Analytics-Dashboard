@@ -80,7 +80,7 @@ To deliver an interactive visual tool that:
 - Geographic map of India showing sales distribution across major cities including:
   - Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Kolkata, Pune, Ahmedabad, Lucknow, Kanpur, Indore, Bhopal, Patna, Ranchi, Jodhpur, Rajkot, Ludhiana, Gorakhpur, Coimbatore, and more.
 
-**Count of Customer Ratings by Customer Ratings (Bar Chart)**
+**Customer Ratings (Funnel Chart)**
 - Shows customer satisfaction distribution:
   - ⭐ 5 Stars: **311**
   - ⭐ 4 Stars: **185**
@@ -89,7 +89,7 @@ To deliver an interactive visual tool that:
   - ⭐ 1 Star: **67**
 - Indicates strong overall satisfaction with a majority of high ratings.
 
-**Transactions by Payment Method (Donut Chart)**
+**Payment Methods (Donut Chart)**
 - Breakdown of payment preferences:
   - **UPI:** 26.25%
   - **Debit Card:** 25.89%
