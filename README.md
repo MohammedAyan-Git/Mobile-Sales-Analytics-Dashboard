@@ -127,11 +127,12 @@ To deliver an interactive visual tool that:
 
 ## How to Use
 
-1. Download the `.pbix` file and open it in **Power BI Desktop**.
-2. Use the slicers on the left to filter by **Month**, **Brand**, **Mobile Model**, or **Payment Method**.
-3. Interact with any visual — all charts are cross-filtered for dynamic exploration.
-4. Hover over data points for detailed tooltips and insights.
-
+1. Download or clone this repository.
+2. Download the `.pbix` file and open it in **Power BI Desktop**.
+3. Use the slicers on the left to filter by **Month**, **Brand**, **Mobile Model**, or **Payment Method**.
+4. Interact with any visual — all charts are cross-filtered for dynamic exploration.
+5. Hover over data points for detailed tooltips and insights.
+6. Explore sales performance by brand, model, month, payment method, city, customer rating, and day.
 ---
 
 **Dashboard Designed by [Mohammed Ayan](https://github.com/MohammedAyan-Git)**
