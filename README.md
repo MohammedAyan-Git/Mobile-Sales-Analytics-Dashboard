@@ -134,13 +134,6 @@ To deliver an interactive visual tool that:
 
 ---
 
-## Feedback & Contributions
-
-Feel free to fork this repository, raise issues, or submit pull requests. For any questions or collaboration ideas, reach out via [GitHub](https://github.com/MohammedAyan-Git) or [LinkedIn](https://www.linkedin.com/in/mohammedayan-in/).
-
----
-
 **Dashboard Designed by [Mohammed Ayan](https://github.com/MohammedAyan-Git)**
-
----
+Feel free to fork this repository, raise issues, or submit pull requests. For any questions or collaboration ideas, reach out via [GitHub](https://github.com/MohammedAyan-Git) or [LinkedIn](https://www.linkedin.com/in/mohammedayan-in/).
 
