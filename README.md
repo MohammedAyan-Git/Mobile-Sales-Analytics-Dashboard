@@ -140,14 +140,14 @@ To deliver an interactive visual tool that:
 
 Potential enhancements for future versions include:
 
-•Adding Year and Quarter slicers.
-•Creating year-over-year sales comparisons.
-•Adding brand-level sales trend analysis.
-•Introducing profit and margin analysis if cost data becomes available.
-•Adding customer segmentation based on age and purchasing behavior.
-•Developing predictive sales forecasting.
-•Adding drill-through pages for individual brands and mobile models.
-•Adding advanced DAX-based KPIs and time-intelligence measures.
+- Adding Year and Quarter slicers.
+- Creating year-over-year sales comparisons.
+- Adding brand-level sales trend analysis.
+- Introducing profit and margin analysis if cost data becomes available.
+- Adding customer segmentation based on age and purchasing behavior.
+- Developing predictive sales forecasting.
+- Adding drill-through pages for individual brands and mobile models.
+- Adding advanced DAX-based KPIs and time-intelligence measures.
 
 ---
 
