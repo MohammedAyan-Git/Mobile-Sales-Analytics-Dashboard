@@ -32,9 +32,7 @@ Data includes mobile phone sales transactions across major Indian cities, captur
 
 ---
 
-## Features
-
-### Business Problem
+## Business Problem
 
 The mobile retail industry in India is highly competitive, with numerous brands, models, and regional variations in consumer behavior. Sales teams, store managers, and analysts often lack a unified view to quickly answer critical questions such as:
 
@@ -48,7 +46,7 @@ Raw transaction data alone makes it difficult to derive actionable insights effi
 
 ---
 
-### Goal of the Dashboard
+## Goal of the Dashboard
 
 To deliver an interactive visual tool that:
 
@@ -58,7 +56,7 @@ To deliver an interactive visual tool that:
 
 ---
 
-### Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
 
 **Key KPIs (Top Row)**
 - Total Sales: **769M**
@@ -112,7 +110,7 @@ To deliver an interactive visual tool that:
 
 ---
 
-### Business Impact & Insights
+## Business Impact & Insights
 
 | Insight Area | Application |
 |--------------|-------------|
