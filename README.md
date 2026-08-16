@@ -133,8 +133,26 @@ To deliver an interactive visual tool that:
 4. Interact with any visual — all charts are cross-filtered for dynamic exploration.
 5. Hover over data points for detailed tooltips and insights.
 6. Explore sales performance by brand, model, month, payment method, city, customer rating, and day.
+
+---
+
+## Future Improvements
+
+Potential enhancements for future versions include:
+
+Adding Year and Quarter slicers.
+Creating year-over-year sales comparisons.
+Adding brand-level sales trend analysis.
+Introducing profit and margin analysis if cost data becomes available.
+Adding customer segmentation based on age and purchasing behavior.
+Developing predictive sales forecasting.
+Adding drill-through pages for individual brands and mobile models.
+Adding advanced DAX-based KPIs and time-intelligence measures.
+
 ---
 
 **Dashboard Designed by [Mohammed Ayan](https://github.com/MohammedAyan-Git)**
+
+If you found this dashboard useful or interesting, consider giving the repository a ⭐ Star and connecting with me. I am continuously building projects to strengthen my skills in Data Analytics, Business Intelligence, Power BI, SQL, and Data Visualization.
 Feel free to fork this repository, raise issues, or submit pull requests. For any questions or collaboration ideas, reach out via [GitHub](https://github.com/MohammedAyan-Git) or [LinkedIn](https://www.linkedin.com/in/mohammedayan-in/).
 
