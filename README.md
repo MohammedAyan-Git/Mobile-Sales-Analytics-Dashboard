@@ -149,9 +149,12 @@ Potential enhancements for future versions include:
 
 ---
 
-## Dashboard
+## Dashboard Preview
+
 ![](https://github.com/MohammedAyan-Git/Mobile-Sales-Analytics-Dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
+
 ---
+
 **Dashboard Designed by [Mohammed Ayan](https://github.com/MohammedAyan-Git)**
 
 If you found this dashboard useful or interesting, consider giving the repository a ⭐ Star and connecting with me. I am continuously building projects to strengthen my skills in Data Analytics, Business Intelligence, Power BI, SQL, and Data Visualization.
