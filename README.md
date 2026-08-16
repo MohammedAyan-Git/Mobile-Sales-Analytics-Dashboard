@@ -1,10 +1,7 @@
+---
 # Mobile-Sales-Analytics-Dashboard
+---
 A dynamic, interactive Power BI dashboard designed to analyze mobile phone sales performance across brands, models, cities, payment methods, customer ratings, months, and days. The dashboard transforms 3,835 mobile sales transactions into actionable business insights through dynamic KPIs and interactive visualizations.
----
-## Mobile Sales Analytics Dashboard
-A dynamic, interactive data visualization tool built to explore mobile phone sales performance across India — focusing on sales trends, customer behavior, payment preferences, product performance, and geographic distribution.
----
-
 ## Purpose
 
 The Mobile Sales Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and analyze mobile sales data across multiple Indian cities, brands, and models. The dashboard focuses on highlighting key sales metrics, customer satisfaction patterns, payment method trends, and seasonal demand fluctuations. This tool is intended for use by sales managers, retail analysts, business strategists, and data-driven decision-makers who seek to understand trends and performance drivers in the mobile retail market.
