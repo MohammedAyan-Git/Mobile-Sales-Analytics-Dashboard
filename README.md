@@ -125,6 +125,21 @@ To deliver an interactive visual tool that:
 
 ---
 
+## How to Use
+
+1. Download the `.pbix` file and open it in **Power BI Desktop**.
+2. Use the slicers on the left to filter by **Month**, **Brand**, **Mobile Model**, or **Payment Method**.
+3. Interact with any visual — all charts are cross-filtered for dynamic exploration.
+4. Hover over data points for detailed tooltips and insights.
+
+---
+
+## Feedback & Contributions
+
+Feel free to fork this repository, raise issues, or submit pull requests. For any questions or collaboration ideas, reach out via [GitHub](https://github.com/MohammedAyan-Git) or [LinkedIn](https://www.linkedin.com/in/mohammedayan-in/).
+
+---
+
 **Dashboard Designed by [Mohammed Ayan](https://github.com/MohammedAyan-Git)**
 
 ---
